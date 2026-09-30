@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+body {
+  background-color: aliceblue;
+}
+img {
+  /* 画像幅を画面サイズMAXに収める */
+  max-width: 100%;
+}
